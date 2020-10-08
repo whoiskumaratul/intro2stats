@@ -66,7 +66,12 @@ Users could choose to install Anaconda, if they want. If using Anaconda or Entho
 
 #### Clone the repository
     $ git clone https://github.com/rouseguy/intro2stats.git
+<br>
+<br>
+<img src="https://1.bp.blogspot.com/-Kee8sxdOv1U/X398dOT7aoI/AAAAAAAAEPo/RbLmCw0Rj-wx98b5LSglCInkfrIUDhO3QCLcBGAsYHQ/w640-h124/rouseguy.png" alt="rouseguy">
 
+<br>
+<br>
 #### Create a virtual environment & activate
     $ cd intro2stats
     $ virtualenv env
